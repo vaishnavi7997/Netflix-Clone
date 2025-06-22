@@ -71,12 +71,6 @@ Add Netlify/Vercel : http://localhost:5173/
 
 ---
 
-## 📸 Screenshots
-
-You can include screenshots of the Home Page, Login, Video Player, and Mobile View.
-
----
-
 ## 📄 License
 
 This project is for educational purposes only.
