@@ -128,7 +128,7 @@ fetch(`https://api.themoviedb.org/3/trending/movie/day?api_key=${import.meta.env
 
 ## 🌐 Live Demo
 
-Add Netlify/Vercel: [https://netflix-clone-eta-tan.vercel.app/login]
+Add Netlify/Vercel: [[https://netflix-clone-eta-tan.vercel.app/login](https://netflix-clone-f8wzr0l4k-vaishnavi7997s-projects.vercel.app/login)]
 
 
 ---
