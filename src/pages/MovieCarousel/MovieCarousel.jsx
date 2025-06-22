@@ -8,7 +8,7 @@ import { Navigation, Autoplay } from 'swiper/modules';
 const MovieCarousel = ({ category = "popular", title = "Featured" }) => {
   const [movies, setMovies] = useState([]);
 
-  const API_KEY = 'YOUR_TMDB_API_KEY'; // Replace with your actual API key
+  const API_KEY = 'YOUR_TMDB_API_KEY'; 
 
   useEffect(() => {
     fetch(`https://api.themoviedb.org/3/movie/${category}?api_key=${API_KEY}&language=en-US`)
