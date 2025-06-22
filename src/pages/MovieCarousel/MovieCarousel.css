@@ -1,0 +1,19 @@
+.carousel-section {
+  padding: 20px;
+  background: #000;
+  color: #fff;
+}
+.carousel-section h2 {
+  margin-bottom: 10px;
+  font-size: 1.5rem;
+}
+.carousel-img {
+  width: 100%;
+  height: auto;
+  border-radius: 8px;
+  transition: transform 0.3s;
+  cursor: pointer;
+}
+.carousel-img:hover {
+  transform: scale(1.05);
+}
