@@ -67,7 +67,7 @@ npm install
 
 ## 🌐 Live Demo
 
-Add Netlify/Vercel : http://localhost:5173/
+Add Netlify/Vercel : [https://netflix-clone-bm68fx4pu-vaishnavi7997s-projects.vercel.app/login]
 
 ---
 
